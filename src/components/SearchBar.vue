@@ -44,7 +44,6 @@ defineEmits(['onSearch'])
 }
 
 .search-box:focus {
-  outline: none;
   background: rgba(255, 255, 255, 0.7);
   border-color: rgba(255, 255, 255, 0.9);
   box-shadow: 0 8px 32px rgba(100, 150, 255, 0.15);
